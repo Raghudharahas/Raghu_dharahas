@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghudharahas&label=Profile%20views&color=0e75b6&style=flat" alt="raghudharahas" /> </p>
 
-<p align="left"> <a href="https://github.com/Raghudharahas"><img src="https://github-profile-trophy.vercel.app/?username=Raghudharahas" alt="raghudharahas" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raghudharahas](https://github.com/Raghudharahas)
 
