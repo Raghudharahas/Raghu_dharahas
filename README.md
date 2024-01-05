@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghu Dharahas</h1>
 <h3 align="center">A Robotics engineer and entrepreneur currently pursuing a Master's degree in Robotics at the esteemed University of Maryland.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghudharahas&label=Profile%20views&color=0e75b6&style=flat" alt="raghudharahas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghudharahas&label=Profile%20views&color=0e75b6&style=flat" alt="raghudharahas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghudharahas" alt="raghudharahas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Raghudharahas" alt="raghudharahas" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raghudharahas](https://github.com/Raghudharahas)
 
